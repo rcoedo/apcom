@@ -12,6 +12,11 @@ var quotes = []string{
 	"There the fire will consume you, the sword will cut you down; they will devour you like a swarm of locusts.",
 	"All these are the beginning of sorrows",
 	"And many false prophets will appear and will deceive many people.",
+	"Not even death can save you",
+	"Beware! Beyond lies mortal danger for the likes of you!",
+	"This holy place has been desecrated",
+	"Turn back! I can tell that you need more experience to fight safely in the next wilderness.",
+
 }
 
 func main() {
