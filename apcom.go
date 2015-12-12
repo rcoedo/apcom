@@ -1,8 +1,10 @@
 package main
 
-import "fmt"
-import "math/rand"
-import "time"
+import (
+	"fmt"
+	"math/rand"
+	"time"
+)
 
 var quotes = []string{
 	"Chaos will reign",
@@ -19,6 +21,7 @@ var quotes = []string{
 	"We shall feast when darkness falls, sing until our jaws are broken",
 	"Everyday’s like a war between the will to go on and a wish that the world would spiral into the sun",
 	"As they dwell in darkness so shall I",
+	"Change and decay in all around I see...",
 }
 
 func main() {
